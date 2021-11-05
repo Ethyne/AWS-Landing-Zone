@@ -1,2 +1,2 @@
-# Minecraft
-Attempting to deploy a Minecraft server using terraform
+# AWS-Landing-Zone
+Deploys a simple AWS VPC to be used by other workspaces
